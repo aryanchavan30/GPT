@@ -1,0 +1,2048 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[i][n] -> [in] 256
+[ ][a] -> [ a] 257
+[ ][t] -> [ t] 258
+[r][e] -> [re] 259
+[h][e] -> [he] 260
+[ ][o] -> [ o] 261
+[o][n] -> [on] 262
+[e][n] -> [en] 263
+[a][t] -> [at] 264
+[e][r] -> [er] 265
+[a][n] -> [an] 266
+[ t][he] -> [ the] 267
+[e][s] -> [es] 268
+[i][t] -> [it] 269
+[a][l] -> [al] 270
+[o][r] -> [or] 271
+[e][d] -> [ed] 272
+[n][d] -> [nd] 273
+[a][r] -> [ar] 274
+[ o][f] -> [ of] 275
+[ ][c] -> [ c] 276
+[in][g] -> [ing] 277
+[i][on] -> [ion] 278
+[ ][in] -> [ in] 279
+[ ][\u000a] -> [ \u000a] 280
+[i][s] -> [is] 281
+[ ][s] -> [ s] 282
+[en][t] -> [ent] 283
+[ ][p] -> [ p] 284
+[ \u000a][ ] -> [ \u000a ] 285
+[ ][f] -> [ f] 286
+[r][o] -> [ro] 287
+[ a][nd] -> [ and] 288
+[c][t] -> [ct] 289
+[\u000a][\u000a] -> [\u000a\u000a] 290
+[ ][re] -> [ re] 291
+[o][m] -> [om] 292
+[ ][C] -> [ C] 293
+[ ][b] -> [ b] 294
+[i][c] -> [ic] 295
+[ ][d] -> [ d] 296
+[m][ent] -> [ment] 297
+[a][s] -> [as] 298
+[ t][o] -> [ to] 299
+[ ][w] -> [ w] 300
+[u][r] -> [ur] 301
+[at][ion] -> [ation] 302
+[ ][e] -> [ e] 303
+[ ][(] -> [ (] 304
+[ ][m] -> [ m] 305
+[e][t] -> [et] 306
+[ ][S] -> [ S] 307
+[i][v] -> [iv] 308
+[l][o] -> [lo] 309
+[c][e] -> [ce] 310
+[i][l] -> [il] 311
+[s][t] -> [st] 312
+[om][p] -> [omp] 313
+[o][l] -> [ol] 314
+[2][0] -> [20] 315
+[l][e] -> [le] 316
+[ ][M] -> [ M] 317
+[ ][A] -> [ A] 318
+[ a][s] -> [ as] 319
+[at][e] -> [ate] 320
+[c][h] -> [ch] 321
+[o][t] -> [ot] 322
+[u][n] -> [un] 323
+[i][es] -> [ies] 324
+[ ][I] -> [ I] 325
+[ ][R] -> [ R] 326
+[a][b] -> [ab] 327
+[i][al] -> [ial] 328
+[ ][T] -> [ T] 329
+[i][d] -> [id] 330
+[i][m] -> [im] 331
+[ ][N] -> [ N] 332
+[ f][or] -> [ for] 333
+[20][2] -> [202] 334
+[u][t] -> [ut] 335
+[omp][an] -> [ompan] 336
+[.][\u000a\u000a] -> [.\u000a\u000a] 337
+[ ][P] -> [ P] 338
+[ ][h] -> [ h] 339
+[ ][D] -> [ D] 340
+[ c][on] -> [ con] 341
+[ ][n] -> [ n] 342
+[ o][n] -> [ on] 343
+[it][y] -> [ity] 344
+[ p][ro] -> [ pro] 345
+[ C][ompan] -> [ Compan] 346
+[ ][is] -> [ is] 347
+[u][s] -> [us] 348
+[an][c] -> [anc] 349
+[ t][h] -> [ th] 350
+[er][s] -> [ers] 351
+[u][l] -> [ul] 352
+[ Compan][y] -> [ Company] 353
+[re][s] -> [res] 354
+[r][a] -> [ra] 355
+[q][u] -> [qu] 356
+[ s][t] -> [ st] 357
+[g][e] -> [ge] 358
+[i][r] -> [ir] 359
+[i][g] -> [ig] 360
+[es][s] -> [ess] 361
+[ o][r] -> [ or] 362
+[ ][g] -> [ g] 363
+[l][y] -> [ly] 364
+[e][ct] -> [ect] 365
+[it][h] -> [ith] 366
+[at][ed] -> [ated] 367
+[v][e] -> [ve] 368
+[i][re] -> [ire] 369
+[he][r] -> [her] 370
+[ a][re] -> [ are] 371
+[ ][l] -> [ l] 372
+[u][d] -> [ud] 373
+[ b][e] -> [ be] 374
+[ w][ith] -> [ with] 375
+[y][e] -> [ye] 376
+[t][e] -> [te] 377
+[en][d] -> [end] 378
+[in][anc] -> [inanc] 379
+[an][ce] -> [ance] 380
+[o][un] -> [oun] 381
+[i][f] -> [if] 382
+[oun][t] -> [ount] 383
+[iv][e] -> [ive] 384
+[ e][x] -> [ ex] 385
+[inanc][ial] -> [inancial] 386
+[e][c] -> [ec] 387
+[ment][s] -> [ments] 388
+[or][t] -> [ort] 389
+[ ][E] -> [ E] 390
+[ ][L] -> [ L] 391
+[3][1] -> [31] 392
+[t][her] -> [ther] 393
+[u][re] -> [ure] 394
+[e][m] -> [em] 395
+[ a][t] -> [ at] 396
+[ ][B] -> [ B] 397
+[ s][u] -> [ su] 398
+[ ][F] -> [ F] 399
+[ ][v] -> [ v] 400
+[ as][s] -> [ ass] 401
+[p][p] -> [pp] 402
+[ T][he] -> [ The] 403
+[0][0] -> [00] 404
+[ a][n] -> [ an] 405
+[a][in] -> [ain] 406
+[ ][r] -> [ r] 407
+[r][i] -> [ri] 408
+[ar][ch] -> [arch] 409
+[ar][d] -> [ard] 410
+[ b][y] -> [ by] 411
+[ab][le] -> [able] 412
+[ro][u] -> [rou] 413
+[a][y] -> [ay] 414
+[es][t] -> [est] 415
+[u][e] -> [ue] 416
+[c][c] -> [cc] 417
+[ in][c] -> [ inc] 418
+[ye][ar] -> [year] 419
+[re][n] -> [ren] 420
+[ ][G] -> [ G] 421
+[e][f] -> [ef] 422
+[ ][year] -> [ year] 423
+[an][s] -> [ans] 424
+[lo][s] -> [los] 425
+[ f][inancial] -> [ financial] 426
+[ I][nd] -> [ Ind] 427
+[o][d] -> [od] 428
+[v][er] -> [ver] 429
+[ion][s] -> [ions] 430
+[e][p] -> [ep] 431
+[ire][ct] -> [irect] 432
+[it][ies] -> [ities] 433
+[ M][arch] -> [ March] 434
+[u][m] -> [um] 435
+[o][s] -> [os] 436
+[a][ge] -> [age] 437
+[t][er] -> [ter] 438
+[re][d] -> [red] 439
+[d][u] -> [du] 440
+[ation][s] -> [ations] 441
+[an][d] -> [and] 442
+[u][nd] -> [und] 443
+[ ][O] -> [ O] 444
+[h][a] -> [ha] 445
+[ re][s] -> [ res] 446
+[a][d] -> [ad] 447
+[om][m] -> [omm] 448
+[ a][m] -> [ am] 449
+[ ][it] -> [ it] 450
+[p][er] -> [per] 451
+[ th][at] -> [ that] 452
+[ro][m] -> [rom] 453
+[ re][c] -> [ rec] 454
+[f][or] -> [for] 455
+[ p][er] -> [ per] 456
+[e][l] -> [el] 457
+[ h][as] -> [ has] 458
+[irect][or] -> [irector] 459
+[an][t] -> [ant] 460
+[ I][n] -> [ In] 461
+[a][ct] -> [act] 462
+[ ][en] -> [ en] 463
+[ab][il] -> [abil] 464
+[it][ed] -> [ited] 465
+[ n][ot] -> [ not] 466
+[ol][ar] -> [olar] 467
+[ o][ther] -> [ other] 468
+[ ass][et] -> [ asset] 469
+[ ][H] -> [ H] 470
+[ar][t] -> [art] 471
+[ f][rom] -> [ from] 472
+[ con][t] -> [ cont] 473
+[u][st] -> [ust] 474
+[ a][l] -> [ al] 475
+[T][he] -> [The] 476
+[ w][h] -> [ wh] 477
+[r][ans] -> [rans] 478
+[f][f] -> [ff] 479
+['][s] -> ['s] 480
+[ D][irector] -> [ Director] 481
+[is][t] -> [ist] 482
+[lo][w] -> [low] 483
+[ a][pp] -> [ app] 484
+[p][t] -> [pt] 485
+[im][ited] -> [imited] 486
+[ c][omp] -> [ comp] 487
+[1][0] -> [10] 488
+[s][id] -> [sid] 489
+[ ex][p] -> [ exp] 490
+[ a][cc] -> [ acc] 491
+[i][p] -> [ip] 492
+[m][p] -> [mp] 493
+[i][a] -> [ia] 494
+[t][h] -> [th] 495
+[ v][al] -> [ val] 496
+[is][k] -> [isk] 497
+[ol][d] -> [old] 498
+[ar][y] -> [ary] 499
+[l][ud] -> [lud] 500
+[ am][ount] -> [ amount] 501
+[l][i] -> [li] 502
+[a][k] -> [ak] 503
+[ig][n] -> [ign] 504
+[ re][p] -> [ rep] 505
+[rou][p] -> [roup] 506
+[o][c] -> [oc] 507
+[und][er] -> [under] 508
+[ud][it] -> [udit] 509
+[o][ard] -> [oard] 510
+[ o][ur] -> [ our] 511
+[o][re] -> [ore] 512
+[ L][imited] -> [ Limited] 513
+[r][u] -> [ru] 514
+[ a][d] -> [ ad] 515
+[ R][e] -> [ Re] 516
+[age][ment] -> [agement] 517
+[ot][e] -> [ote] 518
+[ \u000a][\u000a] -> [ \u000a\u000a] 519
+[a][m] -> [am] 520
+[ h][a] -> [ ha] 521
+[ur][ing] -> [uring] 522
+[as][e] -> [ase] 523
+[s][e] -> [se] 524
+[ m][e] -> [ me] 525
+[for][m] -> [form] 526
+[ ][under] -> [ under] 527
+[ c][o] -> [ co] 528
+[ur][ren] -> [urren] 529
+[a][il] -> [ail] 530
+[:][\u000a\u000a] -> [:\u000a\u000a] 531
+[ t][rans] -> [ trans] 532
+[er][m] -> [erm] 533
+[ B][oard] -> [ Board] 534
+[a][ir] -> [air] 535
+[ m][an] -> [ man] 536
+[o][g] -> [og] 537
+[ w][e] -> [ we] 538
+[a][c] -> [ac] 539
+[ l][i] -> [ li] 540
+[b][er] -> [ber] 541
+[ it][s] -> [ its] 542
+[if][ic] -> [ific] 543
+[il][l] -> [ill] 544
+[omm][it] -> [ommit] 545
+[ ][W] -> [ W] 546
+[a][g] -> [ag] 547
+[i][b] -> [ib] 548
+[ an][y] -> [ any] 549
+[ ][he] -> [ he] 550
+[a][x] -> [ax] 551
+[e][w] -> [ew] 552
+[ic][h] -> [ich] 553
+[du][ct] -> [duct] 554
+[u][al] -> [ual] 555
+[ asset][s] -> [ assets] 556
+[ ha][ve] -> [ have] 557
+[ st][ate] -> [ state] 558
+[o][w] -> [ow] 559
+[ su][b] -> [ sub] 560
+[ wh][ich] -> [ which] 561
+[ ][us] -> [ us] 562
+[ val][ue] -> [ value] 563
+[ p][l] -> [ pl] 564
+[v][est] -> [vest] 565
+[ ][im] -> [ im] 566
+[og][n] -> [ogn] 567
+[as][h] -> [ash] 568
+[at][er] -> [ater] 569
+[ ][un] -> [ un] 570
+[ r][isk] -> [ risk] 571
+[ inc][lud] -> [ includ] 572
+[iv][es] -> [ives] 573
+[it][ion] -> [ition] 574
+[ro][w] -> [row] 575
+[ig][h] -> [igh] 576
+[ c][h] -> [ ch] 577
+[ N][o] -> [ No] 578
+[ol][ic] -> [olic] 579
+[er][v] -> [erv] 580
+[ d][is] -> [ dis] 581
+[ im][p] -> [ imp] 582
+[a][p] -> [ap] 583
+[i][z] -> [iz] 584
+[g][ul] -> [gul] 585
+[en][ce] -> [ence] 586
+[2][5] -> [25] 587
+[ G][roup] -> [ Group] 588
+[ rep][ort] -> [ report] 589
+[ ][le] -> [ le] 590
+[ E][x] -> [ Ex] 591
+[ pro][v] -> [ prov] 592
+[ re][l] -> [ rel] 593
+[ s][ha] -> [ sha] 594
+[g][h] -> [gh] 595
+[ p][art] -> [ part] 596
+[los][s] -> [loss] 597
+[s][s] -> [ss] 598
+[ S][olar] -> [ Solar] 599
+[v][i] -> [vi] 600
+[.][\u000a] -> [.\u000a] 601
+[o][ver] -> [over] 602
+[ing][s] -> [ings] 603
+[he][n] -> [hen] 604
+[ rec][ogn] -> [ recogn] 605
+[ li][abil] -> [ liabil] 606
+[I][n] -> [In] 607
+[mp][lo] -> [mplo] 608
+[ res][p] -> [ resp] 609
+[on][s] -> [ons] 610
+[or][d] -> [ord] 611
+[u][res] -> [ures] 612
+[ommit][te] -> [ommitte] 613
+[qu][ire] -> [quire] 614
+[1][2] -> [12] 615
+[o][ur] -> [our] 616
+[l][ic] -> [lic] 617
+[ ][&] -> [ &] 618
+[o][us] -> [ous] 619
+[end][ed] -> [ended] 620
+[ra][ct] -> [ract] 621
+[ Ind][ia] -> [ India] 622
+[ d][e] -> [ de] 623
+[ic][es] -> [ices] 624
+[or][k] -> [ork] 625
+[ M][an] -> [ Man] 626
+[at][es] -> [ates] 627
+[N][ote] -> [Note] 628
+[rou][gh] -> [rough] 629
+[ ][ent] -> [ ent] 630
+[ o][per] -> [ oper] 631
+[ Director][s] -> [ Directors] 632
+[1][1] -> [11] 633
+[20][1] -> [201] 634
+[ S][t] -> [ St] 635
+[as][t] -> [ast] 636
+[r][y] -> [ry] 637
+[an][ge] -> [ange] 638
+[ ][loss] -> [ loss] 639
+[ot][al] -> [otal] 640
+[ e][ff] -> [ eff] 641
+[ e][qu] -> [ equ] 642
+[is][e] -> [ise] 643
+[urren][t] -> [urrent] 644
+[h][old] -> [hold] 645
+[ab][l] -> [abl] 646
+[mplo][ye] -> [mploye] 647
+[1][3] -> [13] 648
+[ b][as] -> [ bas] 649
+[ic][al] -> [ical] 650
+[at][ing] -> [ating] 651
+[ con][s] -> [ cons] 652
+[in][t] -> [int] 653
+[ th][rough] -> [ through] 654
+[is][ed] -> [ised] 655
+[ a][udit] -> [ audit] 656
+[t][ain] -> [tain] 657
+[f][it] -> [fit] 658
+[\u000a\u000a][ ] -> [\u000a\u000a ] 659
+[ic][e] -> [ice] 660
+[ t][ax] -> [ tax] 661
+[ be][en] -> [ been] 662
+[ P][ro] -> [ Pro] 663
+[1][00] -> [100] 664
+[re][st] -> [rest] 665
+[)][\u000a\u000a] -> [)\u000a\u000a] 666
+[ra][d] -> [rad] 667
+[te][rest] -> [terest] 668
+[ ][K] -> [ K] 669
+[ ][lo] -> [ lo] 670
+[ A][ct] -> [ Act] 671
+[ state][ments] -> [ statements] 672
+[ C][ommitte] -> [ Committe] 673
+[ter][n] -> [tern] 674
+[f][er] -> [fer] 675
+[1][4] -> [14] 676
+[1][8] -> [18] 677
+[igh][t] -> [ight] 678
+[c][y] -> [cy] 679
+[sid][i] -> [sidi] 680
+[l][l] -> [ll] 681
+[om][e] -> [ome] 682
+[o][int] -> [oint] 683
+[it][al] -> [ital] 684
+[a][ce] -> [ace] 685
+[i][od] -> [iod] 686
+[ s][p] -> [ sp] 687
+[an][g] -> [ang] 688
+[h][ri] -> [hri] 689
+[a][f] -> [af] 690
+[in][ess] -> [iness] 691
+[1][9] -> [19] 692
+[ R][s] -> [ Rs] 693
+[or][s] -> [ors] 694
+[or][y] -> [ory] 695
+[�][�] -> [�] 696
+[ater][ial] -> [aterial] 697
+[ ][V] -> [ V] 698
+[ d][et] -> [ det] 699
+[us][iness] -> [usiness] 700
+[1][5] -> [15] 701
+[ co][st] -> [ cost] 702
+[as][s] -> [ass] 703
+[ man][agement] -> [ management] 704
+[2][4] -> [24] 705
+[ o][b] -> [ ob] 706
+[on][g] -> [ong] 707
+[res][s] -> [ress] 708
+[ p][r] -> [ pr] 709
+[ar][k] -> [ark] 710
+[p][or] -> [por] 711
+[ Committe][e] -> [ Committee] 712
+[h][ip] -> [hip] 713
+[ c][ar] -> [ car] 714
+[ acc][ount] -> [ account] 715
+[ f][air] -> [ fair] 716
+[j][ect] -> [ject] 717
+[ p][olic] -> [ polic] 718
+[en][er] -> [ener] 719
+[ su][ch] -> [ such] 720
+[ a][ct] -> [ act] 721
+[ ][Q] -> [ Q] 722
+[1][6] -> [16] 723
+[ per][iod] -> [ period] 724
+[ liabil][ities] -> [ liabilities] 725
+[i][ed] -> [ied] 726
+[u][p] -> [up] 727
+[al][l] -> [all] 728
+[ re][quire] -> [ require] 729
+[ ][J] -> [ J] 730
+[ri][b] -> [rib] 731
+[ce][iv] -> [ceiv] 732
+[ect][ion] -> [ection] 733
+[ ][ended] -> [ ended] 734
+[ al][l] -> [ all] 735
+[ ][-] -> [ -] 736
+[ F][inancial] -> [ Financial] 737
+[ d][ef] -> [ def] 738
+[st][ru] -> [stru] 739
+[ap][ital] -> [apital] 740
+[ pro][fit] -> [ profit] 741
+[over][n] -> [overn] 742
+[ib][le] -> [ible] 743
+[ d][uring] -> [ during] 744
+[ C][ro] -> [ Cro] 745
+[a][id] -> [aid] 746
+[ep][end] -> [epend] 747
+[1][7] -> [17] 748
+[2][9] -> [29] 749
+[anc][es] -> [ances] 750
+[ dis][c] -> [ disc] 751
+[ p][ay] -> [ pay] 752
+[ the][ir] -> [ their] 753
+[ ][/] -> [ /] 754
+[or][por] -> [orpor] 755
+[if][ied] -> [ified] 756
+[ prov][id] -> [ provid] 757
+[ ][k] -> [ k] 758
+[in][ing] -> [ining] 759
+[ app][ro] -> [ appro] 760
+[ w][as] -> [ was] 761
+[tern][al] -> [ternal] 762
+[et][y] -> [ety] 763
+[b][ers] -> [bers] 764
+[iv][id] -> [ivid] 765
+[p][os] -> [pos] 766
+[am][e] -> [ame] 767
+[a][ch] -> [ach] 768
+[ t][erm] -> [ term] 769
+[ d][ate] -> [ date] 770
+[ate][g] -> [ateg] 771
+[ a][c] -> [ ac] 772
+[ro][l] -> [rol] 773
+[w][al] -> [wal] 774
+[0][1] -> [01] 775
+[ ][U] -> [ U] 776
+[ o][ut] -> [ out] 777
+[v][al] -> [val] 778
+[ Re][gul] -> [ Regul] 779
+[ amount][s] -> [ amounts] 780
+[ve][lo] -> [velo] 781
+[velo][p] -> [velop] 782
+[ ][est] -> [ est] 783
+[pt][ion] -> [ption] 784
+[mploye][es] -> [mployees] 785
+[t][y] -> [ty] 786
+[ec][ut] -> [ecut] 787
+[er][ation] -> [eration] 788
+[v][en] -> [ven] 789
+[ pro][c] -> [ proc] 790
+[abl][es] -> [ables] 791
+[ rel][ated] -> [ related] 792
+[e][y] -> [ey] 793
+[ c][ash] -> [ cash] 794
+[ p][re] -> [ pre] 795
+[ul][t] -> [ult] 796
+[ar][ies] -> [aries] 797
+[ ][�] -> [ �] 798
+[ in][vest] -> [ invest] 799
+[li][ance] -> [liance] 800
+[vi][ew] -> [view] 801
+[ con][sid] -> [ consid] 802
+[ A][n] -> [ An] 803
+[ect][ive] -> [ective] 804
+[em][bers] -> [embers] 805
+[ard][s] -> [ards] 806
+[af][ety] -> [afety] 807
+[form][ation] -> [formation] 808
+[ol][id] -> [olid] 809
+[i][i] -> [ii] 810
+[y][st] -> [yst] 811
+[ w][ork] -> [ work] 812
+[u][b] -> [ub] 813
+[en][s] -> [ens] 814
+[3][0] -> [30] 815
+[rad][e] -> [rade] 816
+[ me][as] -> [ meas] 817
+[ in][t] -> [ int] 818
+[ me][et] -> [ meet] 819
+[ in][terest] -> [ interest] 820
+[ m][aterial] -> [ material] 821
+[ ][y] -> [ y] 822
+[S][olar] -> [Solar] 823
+[en][ef] -> [enef] 824
+[ation][al] -> [ational] 825
+[ pro][duct] -> [ product] 826
+[yst][em] -> [ystem] 827
+[e][ren] -> [eren] 828
+[hold][ers] -> [holders] 829
+[ark][et] -> [arket] 830
+[ f][ol] -> [ fol] 831
+[ a][b] -> [ ab] 832
+[le][ct] -> [lect] 833
+[il][ity] -> [ility] 834
+[T][otal] -> [Total] 835
+[at][ive] -> [ative] 836
+[ecut][ive] -> [ecutive] 837
+[ trans][act] -> [ transact] 838
+[ ][Y] -> [ Y] 839
+[ re][ceiv] -> [ receiv] 840
+[im][e] -> [ime] 841
+[ sha][re] -> [ share] 842
+[ sub][sidi] -> [ subsidi] 843
+[c][on] -> [con] 844
+[ g][o] -> [ go] 845
+[res][ent] -> [resent] 846
+[ en][s] -> [ ens] 847
+[erv][ices] -> [ervices] 848
+[ b][usiness] -> [ business] 849
+[ a][g] -> [ ag] 850
+[ak][e] -> [ake] 851
+[3][2] -> [32] 852
+[on][e] -> [one] 853
+[ fol][low] -> [ follow] 854
+[an][k] -> [ank] 855
+[olid][ated] -> [olidated] 856
+[ includ][ing] -> [ including] 857
+[ot][ing] -> [oting] 858
+[e][x] -> [ex] 859
+[ app][lic] -> [ applic] 860
+[ec][ur] -> [ecur] 861
+[ c][ompan] -> [ compan] 862
+[ec][re] -> [ecre] 863
+[0][5] -> [05] 864
+[ir][m] -> [irm] 865
+[ in][d] -> [ ind] 866
+[epend][ent] -> [ependent] 867
+[2][8] -> [28] 868
+[in][e] -> [ine] 869
+[ C][on] -> [ Con] 870
+[abil][ity] -> [ability] 871
+[n][o] -> [no] 872
+[s][u] -> [su] 873
+[2][3] -> [23] 874
+[ st][r] -> [ str] 875
+[e][ch] -> [ech] 876
+[row][th] -> [rowth] 877
+[ust][om] -> [ustom] 878
+[orpor][ate] -> [orporate] 879
+[ w][ill] -> [ will] 880
+[ad][e] -> [ade] 881
+[ R][ep] -> [ Rep] 882
+[v][ent] -> [vent] 883
+[g][y] -> [gy] 884
+[f][eren] -> [feren] 885
+[ bas][ed] -> [ based] 886
+[ s][h] -> [ sh] 887
+[ A][ss] -> [ Ass] 888
+[ the][re] -> [ there] 889
+[ut][ion] -> [ution] 890
+[o][st] -> [ost] 891
+[is][h] -> [ish] 892
+[l][ess] -> [less] 893
+[ sp][ec] -> [ spec] 894
+[ C][h] -> [ Ch] 895
+[id][ent] -> [ident] 896
+[ang][es] -> [anges] 897
+[ign][ific] -> [ignific] 898
+[r][iv] -> [riv] 899
+[ cont][rol] -> [ control] 900
+[ S][hri] -> [ Shri] 901
+[al][e] -> [ale] 902
+[n][ual] -> [nual] 903
+[ p][ur] -> [ pur] 904
+[ Cro][res] -> [ Crores] 905
+[e][ar] -> [ear] 906
+[ener][al] -> [eneral] 907
+[ R][es] -> [ Res] 908
+[ic][i] -> [ici] 909
+[iz][ed] -> [ized] 910
+[ a][r] -> [ ar] 911
+[ar][i] -> [ari] 912
+[ A][udit] -> [ Audit] 913
+[ st][ated] -> [ stated] 914
+[pp][ort] -> [pport] 915
+[or][row] -> [orrow] 916
+[ignific][ant] -> [ignificant] 917
+[enef][it] -> [enefit] 918
+[ f][ore] -> [ fore] 919
+[it][e] -> [ite] 920
+[um][ber] -> [umber] 921
+[it][i] -> [iti] 922
+[ Compan][ies] -> [ Companies] 923
+[o][ut] -> [out] 924
+[l][ig] -> [lig] 925
+[ cont][ract] -> [ contract] 926
+[l][d] -> [ld] 927
+[ ent][ity] -> [ entity] 928
+[is][ion] -> [ision] 929
+[r][ies] -> [ries] 930
+[ m][arket] -> [ market] 931
+[ re][m] -> [ rem] 932
+[ail][s] -> [ails] 933
+[ m][ade] -> [ made] 934
+[u][wal] -> [uwal] 935
+[ equ][ity] -> [ equity] 936
+[ report][ing] -> [ reporting] 937
+[A][ll] -> [All] 938
+[w][ise] -> [wise] 939
+[ure][d] -> [ured] 940
+[ c][l] -> [ cl] 941
+[ sha][res] -> [ shares] 942
+[ ][:] -> [ :] 943
+[oc][i] -> [oci] 944
+[2][7] -> [27] 945
+[ N][uwal] -> [ Nuwal] 946
+[3][9] -> [39] 947
+[ n][o] -> [ no] 948
+[ w][he] -> [ whe] 949
+[ ][j] -> [ j] 950
+[ de][velop] -> [ develop] 951
+[ recogn][ised] -> [ recognised] 952
+[ ][qu] -> [ qu] 953
+[ N][on] -> [ Non] 954
+[ other][wise] -> [ otherwise] 955
+[5][0] -> [50] 956
+[ re][view] -> [ review] 957
+[ry][ing] -> [rying] 958
+[ un][less] -> [ unless] 959
+[ Rep][ort] -> [ Report] 960
+[s][o] -> [so] 961
+[e][as] -> [eas] 962
+[ W][e] -> [ We] 963
+[ow][n] -> [own] 964
+[ ][if] -> [ if] 965
+[p][r] -> [pr] 966
+[ th][is] -> [ this] 967
+[ o][ver] -> [ over] 968
+[con][om] -> [conom] 969
+[ r][ate] -> [ rate] 970
+[ st][and] -> [ stand] 971
+[4][9] -> [49] 972
+[2][6] -> [26] 973
+[c][he] -> [che] 974
+[ch][ange] -> [change] 975
+[ in][formation] -> [ information] 976
+[ go][od] -> [ good] 977
+[ resp][ons] -> [ respons] 978
+[d][er] -> [der] 979
+[ e][m] -> [ em] 980
+[ C][omp] -> [ Comp] 981
+[ inc][ome] -> [ income] 982
+[at][ives] -> [atives] 983
+[ir][on] -> [iron] 984
+[ applic][able] -> [ applicable] 985
+[O][ther] -> [Other] 986
+[ c][omm] -> [ comm] 987
+[ ad][v] -> [ adv] 988
+[ Ex][p] -> [ Exp] 989
+[ e][mployees] -> [ employees] 990
+[in][ed] -> [ined] 991
+[ oper][ations] -> [ operations] 992
+[ S][ha] -> [ Sha] 993
+[ivid][end] -> [ividend] 994
+[ m][on] -> [ mon] 995
+[ D][e] -> [ De] 996
+[ per][form] -> [ perform] 997
+[ g][rowth] -> [ growth] 998
+[ m][at] -> [ mat] 999
+[ the][se] -> [ these] 1000
+[ c][ustom] -> [ custom] 1001
+[ s][afety] -> [ safety] 1002
+[v][iron] -> [viron] 1003
+[ for][m] -> [ form] 1004
+[ w][hen] -> [ when] 1005
+[ect][ed] -> [ected] 1006
+[9][0] -> [90] 1007
+[ th][an] -> [ than] 1008
+[viron][ment] -> [vironment] 1009
+[n][er] -> [ner] 1010
+[ A][cc] -> [ Acc] 1011
+[ F][Y] -> [ FY] 1012
+[ al][so] -> [ also] 1013
+[ Man][agement] -> [ Management] 1014
+[ t][ime] -> [ time] 1015
+[ re][gul] -> [ regul] 1016
+[in][c] -> [inc] 1017
+[en][cy] -> [ency] 1018
+[ b][al] -> [ bal] 1019
+[A][s] -> [As] 1020
+[c][es] -> [ces] 1021
+[ disc][los] -> [ disclos] 1022
+[ n][on] -> [ non] 1023
+[o][ve] -> [ove] 1024
+[e][red] -> [ered] 1025
+[el][l] -> [ell] 1026
+[ b][enefit] -> [ benefit] 1027
+[ist][ing] -> [isting] 1028
+[ecre][t] -> [ecret] 1029
+[ term][s] -> [ terms] 1030
+[los][ives] -> [losives] 1031
+[ in][stru] -> [ instru] 1032
+[ cons][olidated] -> [ consolidated] 1033
+[0][4] -> [04] 1034
+[ proc][ess] -> [ process] 1035
+[ Ind][ust] -> [ Indust] 1036
+[ est][im] -> [ estim] 1037
+[hen][s] -> [hens] 1038
+[ T][h] -> [ Th] 1039
+[f][r] -> [fr] 1040
+[is][s] -> [iss] 1041
+[ro][ss] -> [ross] 1042
+[en][se] -> [ense] 1043
+[v][ail] -> [vail] 1044
+[ car][rying] -> [ carrying] 1045
+[)][,] -> [),] 1046
+[od][e] -> [ode] 1047
+[6][3] -> [63] 1048
+[ P][art] -> [ Part] 1049
+[3][8] -> [38] 1050
+[ F][or] -> [ For] 1051
+[2][2] -> [22] 1052
+[overn][ance] -> [overnance] 1053
+[3][5] -> [35] 1054
+[old][ing] -> [olding] 1055
+[ re][g] -> [ reg] 1056
+[0][8] -> [08] 1057
+[ s][ystem] -> [ system] 1058
+[ in][ternal] -> [ internal] 1059
+[t][d] -> [td] 1060
+[du][st] -> [dust] 1061
+[P][ro] -> [Pro] 1062
+[ s][ignificant] -> [ significant] 1063
+[ak][en] -> [aken] 1064
+[ polic][ies] -> [ policies] 1065
+[ific][ation] -> [ification] 1066
+[ r][ight] -> [ right] 1067
+[ d][ue] -> [ due] 1068
+[ut][ure] -> [uture] 1069
+[hens][ive] -> [hensive] 1070
+[c][om] -> [com] 1071
+[ P][olic] -> [ Polic] 1072
+[re][hensive] -> [rehensive] 1073
+[B][I] -> [BI] 1074
+[ M][e] -> [ Me] 1075
+[ven][ue] -> [venue] 1076
+[p][ut] -> [put] 1077
+[I][N] -> [IN] 1078
+[ct][ion] -> [ction] 1079
+[v][ed] -> [ved] 1080
+[4][3] -> [43] 1081
+[he][d] -> [hed] 1082
+[ t][ech] -> [ tech] 1083
+[-][c] -> [-c] 1084
+[ c][an] -> [ can] 1085
+[ers][on] -> [erson] 1086
+[ Ind][ependent] -> [ Independent] 1087
+[ ][%] -> [ %] 1088
+[ M][embers] -> [ Members] 1089
+[0][3] -> [03] 1090
+[ ass][ess] -> [ assess] 1091
+[ inc][re] -> [ incre] 1092
+[E][x] -> [Ex] 1093
+[ bas][is] -> [ basis] 1094
+[ A][m] -> [ Am] 1095
+[ cont][in] -> [ contin] 1096
+[is][ions] -> [isions] 1097
+[ at][t] -> [ att] 1098
+[ require][d] -> [ required] 1099
+[ subsidi][aries] -> [ subsidiaries] 1100
+[ acc][ord] -> [ accord] 1101
+[ d][es] -> [ des] 1102
+[ ch][anges] -> [ changes] 1103
+[ur][ance] -> [urance] 1104
+[os][it] -> [osit] 1105
+[ c][urren] -> [ curren] 1106
+[2][1] -> [21] 1107
+[M][arch] -> [March] 1108
+[ d][em] -> [ dem] 1109
+[ in][dust] -> [ indust] 1110
+[ ad][d] -> [ add] 1111
+[ det][erm] -> [ determ] 1112
+[6][0] -> [60] 1113
+[val][u] -> [valu] 1114
+[ he][ld] -> [ held] 1115
+[r][it] -> [rit] 1116
+[ T][otal] -> [ Total] 1117
+[ Me][et] -> [ Meet] 1118
+[ f][low] -> [ flow] 1119
+[ follow][ing] -> [ following] 1120
+[ fore][ign] -> [ foreign] 1121
+[ rec][ord] -> [ record] 1122
+[ trans][fer] -> [ transfer] 1123
+[ transact][ions] -> [ transactions] 1124
+[ra][m] -> [ram] 1125
+[o][k] -> [ok] 1126
+[ ][up] -> [ up] 1127
+[ f][uture] -> [ future] 1128
+[ib][ility] -> [ibility] 1129
+[in][ation] -> [ination] 1130
+[0][9] -> [09] 1131
+[ b][orrow] -> [ borrow] 1132
+[ c][urrent] -> [ current] 1133
+[ Polic][y] -> [ Policy] 1134
+[ S][ecret] -> [ Secret] 1135
+[le][ment] -> [lement] 1136
+[un][eration] -> [uneration] 1137
+[ a][vail] -> [ avail] 1138
+[os][e] -> [ose] 1139
+[ str][ateg] -> [ strateg] 1140
+[ul][es] -> [ules] 1141
+[ant][s] -> [ants] 1142
+[ pl][an] -> [ plan] 1143
+[red][it] -> [redit] 1144
+[ we][re] -> [ were] 1145
+[ m][ay] -> [ may] 1146
+[ D][ef] -> [ Def] 1147
+[ comp][liance] -> [ compliance] 1148
+[ c][apital] -> [ capital] 1149
+[iv][en] -> [iven] 1150
+[u][ar] -> [uar] 1151
+[0][2] -> [02] 1152
+[f][ore] -> [fore] 1153
+[ E][qu] -> [ Equ] 1154
+[ of][f] -> [ off] 1155
+[ e][ach] -> [ each] 1156
+[is][ing] -> [ising] 1157
+[a][re] -> [are] 1158
+[ n][et] -> [ net] 1159
+[re][c] -> [rec] 1160
+[ con][duct] -> [ conduct] 1161
+[ polic][y] -> [ policy] 1162
+[ Indust][ries] -> [ Industries] 1163
+[ar][g] -> [arg] 1164
+[b][s] -> [bs] 1165
+[ he][d] -> [ hed] 1166
+[ le][ase] -> [ lease] 1167
+[v][ers] -> [vers] 1168
+[f][act] -> [fact] 1169
+[3][6] -> [36] 1170
+[ D][is] -> [ Dis] 1171
+[ year][s] -> [ years] 1172
+[ account][ing] -> [ accounting] 1173
+[ comp][l] -> [ compl] 1174
+[ur][n] -> [urn] 1175
+[3][7] -> [37] 1176
+[u][es] -> [ues] 1177
+[ s][et] -> [ set] 1178
+[ is][su] -> [ issu] 1179
+[ not][e] -> [ note] 1180
+[4][4] -> [44] 1181
+[ C][orporate] -> [ Corporate] 1182
+[p][ur] -> [pur] 1183
+[ru][ct] -> [ruct] 1184
+[ t][ra] -> [ tra] 1185
+[ p][resent] -> [ present] 1186
+[ m][ain] -> [ main] 1187
+[ risk][s] -> [ risks] 1188
+[e][e] -> [ee] 1189
+[w][w] -> [ww] 1190
+[.][e] -> [.e] 1191
+[ce][pt] -> [cept] 1192
+[ liabil][ity] -> [ liability] 1193
+[pr][il] -> [pril] 1194
+[W][e] -> [We] 1195
+[ Y][ear] -> [ Year] 1196
+[ S][E] -> [ SE] 1197
+[ d][o] -> [ do] 1198
+[l][ace] -> [lace] 1199
+[o][f] -> [of] 1200
+[us][e] -> [use] 1201
+[ R][isk] -> [ Risk] 1202
+[3][4] -> [34] 1203
+[ p][aid] -> [ paid] 1204
+[ A][pril] -> [ April] 1205
+[F][or] -> [For] 1206
+[ state][ment] -> [ statement] 1207
+[ St][ate] -> [ State] 1208
+[ in][iti] -> [ initi] 1209
+[o][u] -> [ou] 1210
+[ ]["] -> [ "] 1211
+[ k][ey] -> [ key] 1212
+[h][i] -> [hi] 1213
+[c][ul] -> [cul] 1214
+[.][com] -> [.com] 1215
+[ d][ec] -> [ dec] 1216
+[st][ain] -> [stain] 1217
+[ p][ract] -> [ pract] 1218
+[c][er] -> [cer] 1219
+[em][ber] -> [ember] 1220
+[ An][nual] -> [ Annual] 1221
+[ s][ecur] -> [ secur] 1222
+[ ][ro] -> [ ro] 1223
+[ l][ong] -> [ long] 1224
+[it][ions] -> [itions] 1225
+[ su][stain] -> [ sustain] 1226
+[er][iv] -> [eriv] 1227
+[ In][vest] -> [ Invest] 1228
+[ Regul][ations] -> [ Regulations] 1229
+[8][8] -> [88] 1230
+[ N][ag] -> [ Nag] 1231
+[ac][k] -> [ack] 1232
+[rib][ut] -> [ribut] 1233
+[o][p] -> [op] 1234
+[tain][ed] -> [tained] 1235
+[ ][ident] -> [ ident] 1236
+[il][e] -> [ile] 1237
+[i][an] -> [ian] 1238
+[5][5] -> [55] 1239
+[m][ber] -> [mber] 1240
+[ avail][able] -> [ available] 1241
+[ part][ies] -> [ parties] 1242
+[ter][m] -> [term] 1243
+[ ens][ure] -> [ ensure] 1244
+[a][w] -> [aw] 1245
+[ve][l] -> [vel] 1246
+[es][h] -> [esh] 1247
+[air][ment] -> [airment] 1248
+[ ob][lig] -> [ oblig] 1249
+[lo][b] -> [lob] 1250
+[et][s] -> [ets] 1251
+[C][on] -> [Con] 1252
+[ eff][ect] -> [ effect] 1253
+[ curren][cy] -> [ currency] 1254
+[7][5] -> [75] 1255
+[0][6] -> [06] 1256
+[ instru][ments] -> [ instruments] 1257
+[7][8] -> [78] 1258
+[v][ing] -> [ving] 1259
+[ en][vironment] -> [ environment] 1260
+[ �][�] -> [ –] 1261
+[A][T] -> [AT] 1262
+[conom][ic] -> [conomic] 1263
+[ M][ay] -> [ May] 1264
+[ O][ther] -> [ Other] 1265
+[ c][redit] -> [ credit] 1266
+[ pro][ject] -> [ project] 1267
+[ compan][y] -> [ company] 1268
+[ perform][ance] -> [ performance] 1269
+[ Acc][ount] -> [ Account] 1270
+[ N][A] -> [ NA] 1271
+[ Man][ag] -> [ Manag] 1272
+[S][hri] -> [Shri] 1273
+[ Ex][ecutive] -> [ Executive] 1274
+[ N][il] -> [ Nil] 1275
+[ comp][rehensive] -> [ comprehensive] 1276
+[ accord][ance] -> [ accordance] 1277
+[ pro][g] -> [ prog] 1278
+[ f][ac] -> [ fac] 1279
+[no][lo] -> [nolo] 1280
+[te][red] -> [tered] 1281
+[ b][ank] -> [ bank] 1282
+[ a][f] -> [ af] 1283
+[9][2] -> [92] 1284
+[ exp][ected] -> [ expected] 1285
+[lob][al] -> [lobal] 1286
+[ Nag][pur] -> [ Nagpur] 1287
+[al][es] -> [ales] 1288
+[w][e] -> [we] 1289
+[ s][ervices] -> [ services] 1290
+[ t][aken] -> [ taken] 1291
+[mploye][e] -> [mployee] 1292
+[ip][ment] -> [ipment] 1293
+[ T][rans] -> [ Trans] 1294
+[8][2] -> [82] 1295
+[ S][ub] -> [ Sub] 1296
+[9][3] -> [93] 1297
+[0][7] -> [07] 1298
+[er][red] -> [erred] 1299
+[ m][et] -> [ met] 1300
+[ y][our] -> [ your] 1301
+[ pur][pos] -> [ purpos] 1302
+[st][it] -> [stit] 1303
+[ n][e] -> [ ne] 1304
+[ d][ep] -> [ dep] 1305
+[al][th] -> [alth] 1306
+[ In][c] -> [ Inc] 1307
+[ be][fore] -> [ before] 1308
+[4][7] -> [47] 1309
+[5][6] -> [56] 1310
+[5][8] -> [58] 1311
+[in][d] -> [ind] 1312
+[as][es] -> [ases] 1313
+[9][9] -> [99] 1314
+[ SE][BI] -> [ SEBI] 1315
+[-][V] -> [-V] 1316
+[ ]['] -> [ '] 1317
+[u][fact] -> [ufact] 1318
+[y][s] -> [ys] 1319
+[ G][eneral] -> [ General] 1320
+[abil][ities] -> [abilities] 1321
+[ v][ari] -> [ vari] 1322
+[ R][em] -> [ Rem] 1323
+[ resp][ective] -> [ respective] 1324
+[6][5] -> [65] 1325
+[ �][�] -> [ •] 1326
+[and][ing] -> [anding] 1327
+[h][ar] -> [har] 1328
+[ent][s] -> [ents] 1329
+[ar][n] -> [arn] 1330
+[per][ty] -> [perty] 1331
+[if][feren] -> [ifferen] 1332
+[t][al] -> [tal] 1333
+[ s][ame] -> [ same] 1334
+[ Regul][ation] -> [ Regulation] 1335
+[ Th][is] -> [ This] 1336
+[pt][ions] -> [ptions] 1337
+[ resp][ect] -> [ respect] 1338
+[ol][ution] -> [olution] 1339
+[if][y] -> [ify] 1340
+[ bal][ance] -> [ balance] 1341
+[ A][pp] -> [ App] 1342
+[is][hed] -> [ished] 1343
+[ E][n] -> [ En] 1344
+[ d][ividend] -> [ dividend] 1345
+[ure][ment] -> [urement] 1346
+[-V][oting] -> [-Voting] 1347
+[ C][ha] -> [ Cha] 1348
+[is][es] -> [ises] 1349
+[ ex][per] -> [ exper] 1350
+[re][e] -> [ree] 1351
+[as][ed] -> [ased] 1352
+[ eff][ective] -> [ effective] 1353
+[ ][end] -> [ end] 1354
+[ o][p] -> [ op] 1355
+[9][5] -> [95] 1356
+[ A][S] -> [ AS] 1357
+[ res][ult] -> [ result] 1358
+[A][R] -> [AR] 1359
+[ruct][ure] -> [ructure] 1360
+[ comm][un] -> [ commun] 1361
+[ develop][ment] -> [ development] 1362
+[i][o] -> [io] 1363
+[ product][s] -> [ products] 1364
+[S][R] -> [SR] 1365
+[ whe][re] -> [ where] 1366
+[ t][re] -> [ tre] 1367
+[at][ure] -> [ature] 1368
+[l][ation] -> [lation] 1369
+[ul][y] -> [uly] 1370
+[C][I] -> [CI] 1371
+[ it][em] -> [ item] 1372
+[ ][i] -> [ i] 1373
+[bs][ite] -> [bsite] 1374
+[3][3] -> [33] 1375
+[N][o] -> [No] 1376
+[ receiv][ables] -> [ receivables] 1377
+[4][8] -> [48] 1378
+[ Dis][c] -> [ Disc] 1379
+[al][one] -> [alone] 1380
+[ c][er] -> [ cer] 1381
+[ add][ress] -> [ address] 1382
+[I][nd] -> [Ind] 1383
+[C][L] -> [CL] 1384
+[ d][ifferen] -> [ differen] 1385
+[ recogn][ized] -> [ recognized] 1386
+[ (]["] -> [ ("] 1387
+[ic][s] -> [ics] 1388
+[w][ard] -> [ward] 1389
+[ ass][um] -> [ assum] 1390
+[ n][ew] -> [ new] 1391
+[ R][el] -> [ Rel] 1392
+[er][ing] -> [ering] 1393
+[overn][ment] -> [overnment] 1394
+[ en][g] -> [ eng] 1395
+[pport][un] -> [pportun] 1396
+[ O][ur] -> [ Our] 1397
+[ int][o] -> [ into] 1398
+[ us][e] -> [ use] 1399
+[ f][act] -> [ fact] 1400
+[ pract][ices] -> [ practices] 1401
+[in][al] -> [inal] 1402
+[l][ed] -> [led] 1403
+[ f][und] -> [ fund] 1404
+[ N][umber] -> [ Number] 1405
+[ prov][isions] -> [ provisions] 1406
+[.][A] -> [.A] 1407
+[ k][n] -> [ kn] 1408
+[il][d] -> [ild] 1409
+[t][s] -> [ts] 1410
+[ cost][s] -> [ costs] 1411
+[-][term] -> [-term] 1412
+[ act][iv] -> [ activ] 1413
+[ut][h] -> [uth] 1414
+[uth][or] -> [uthor] 1415
+[ e][valu] -> [ evalu] 1416
+[ to][tal] -> [ total] 1417
+[t][ers] -> [ters] 1418
+[ I][N] -> [ IN] 1419
+[4][5] -> [45] 1420
+[j][ust] -> [just] 1421
+[ S][ection] -> [ Section] 1422
+[ good][s] -> [ goods] 1423
+[ s][ale] -> [ sale] 1424
+[ St][and] -> [ Stand] 1425
+[c][ing] -> [cing] 1426
+[oc][k] -> [ock] 1427
+[ur][ther] -> [urther] 1428
+[ L][e] -> [ Le] 1429
+[ pl][ant] -> [ plant] 1430
+[ N][ot] -> [ Not] 1431
+[ compan][ies] -> [ companies] 1432
+[ lo][ans] -> [ loans] 1433
+[ consid][eration] -> [ consideration] 1434
+[ d][ated] -> [ dated] 1435
+[g][r] -> [gr] 1436
+[ en][er] -> [ ener] 1437
+[riv][ate] -> [rivate] 1438
+[ control][s] -> [ controls] 1439
+[ ass][oci] -> [ associ] 1440
+[ O][ff] -> [ Off] 1441
+[ t][rade] -> [ trade] 1442
+[ Sub][sidi] -> [ Subsidi] 1443
+[;][\u000a] -> [;\u000a] 1444
+[ meas][ured] -> [ measured] 1445
+[-c][urrent] -> [-current] 1446
+[ c][ommit] -> [ commit] 1447
+[ h][igh] -> [ high] 1448
+[ w][ell] -> [ well] 1449
+[ cl][ass] -> [ class] 1450
+[ provid][e] -> [ provide] 1451
+[d][d] -> [dd] 1452
+[In][vest] -> [Invest] 1453
+[ L][i] -> [ Li] 1454
+[ det][ails] -> [ details] 1455
+[S][D] -> [SD] 1456
+[oc][ial] -> [ocial] 1457
+[ des][ign] -> [ design] 1458
+[l][us] -> [lus] 1459
+[al][ly] -> [ally] 1460
+[ A][s] -> [ As] 1461
+[c][ed] -> [ced] 1462
+[ay][s] -> [ays] 1463
+[p][ri] -> [pri] 1464
+[ meet][ing] -> [ meeting] 1465
+[ ex][change] -> [ exchange] 1466
+[4][2] -> [42] 1467
+[5][2] -> [52] 1468
+[ S][ervices] -> [ Services] 1469
+[ s][ection] -> [ section] 1470
+[ J][uly] -> [ July] 1471
+[te][gr] -> [tegr] 1472
+[ stand][ards] -> [ standards] 1473
+[ Meet][ing] -> [ Meeting] 1474
+[00][0] -> [000] 1475
+[ receiv][ed] -> [ received] 1476
+[an][is] -> [anis] 1477
+[l][es] -> [les] 1478
+[ was][te] -> [ waste] 1479
+[ share][holders] -> [ shareholders] 1480
+[ l][ess] -> [ less] 1481
+[h][an] -> [han] 1482
+[8][6] -> [86] 1483
+[as][on] -> [ason] 1484
+[i][or] -> [ior] 1485
+[no][v] -> [nov] 1486
+[ ener][gy] -> [ energy] 1487
+[ Exp][losives] -> [ Explosives] 1488
+[ I][mp] -> [ Imp] 1489
+[ includ][ed] -> [ included] 1490
+[ with][in] -> [ within] 1491
+[7][2] -> [72] 1492
+[ul][d] -> [uld] 1493
+[4][0] -> [40] 1494
+[os][p] -> [osp] 1495
+[ g][lobal] -> [ global] 1496
+[ de][b] -> [ deb] 1497
+[ invest][ments] -> [ investments] 1498
+[ eff][ici] -> [ effici] 1499
+[ake][holders] -> [akeholders] 1500
+[inc][ip] -> [incip] 1501
+[ P][l] -> [ Pl] 1502
+[ meet][ings] -> [ meetings] 1503
+[Ex][ecutive] -> [Executive] 1504
+["][)] -> [")] 1505
+[ su][pp] -> [ supp] 1506
+[ or][der] -> [ order] 1507
+[ b][o] -> [ bo] 1508
+[u][ild] -> [uild] 1509
+[ su][pport] -> [ support] 1510
+[v][ol] -> [vol] 1511
+[ imp][act] -> [ impact] 1512
+[ m][od] -> [ mod] 1513
+[a][j] -> [aj] 1514
+[ent][ial] -> [ential] 1515
+[ us][ing] -> [ using] 1516
+[n][s] -> [ns] 1517
+[ pr][ice] -> [ price] 1518
+[ r][ates] -> [ rates] 1519
+[rec][i] -> [reci] 1520
+[ we][bsite] -> [ website] 1521
+[ Am][ount] -> [ Amount] 1522
+[ imp][airment] -> [ impairment] 1523
+[er][ve] -> [erve] 1524
+[oc][us] -> [ocus] 1525
+[ers][hip] -> [ership] 1526
+[stit][ut] -> [stitut] 1527
+[ initi][atives] -> [ initiatives] 1528
+[ custom][er] -> [ customer] 1529
+[ en][h] -> [ enh] 1530
+[E][S] -> [ES] 1531
+[st][anding] -> [standing] 1532
+[a][ren] -> [aren] 1533
+[t][he] -> [the] 1534
+[h][al] -> [hal] 1535
+[ lo][c] -> [ loc] 1536
+[ s][e] -> [ se] 1537
+[ l][aw] -> [ law] 1538
+[ C][ode] -> [ Code] 1539
+[t][en] -> [ten] 1540
+[ R][at] -> [ Rat] 1541
+[ P][rivate] -> [ Private] 1542
+[5][9] -> [59] 1543
+[ri][ed] -> [ried] 1544
+[ ab][ove] -> [ above] 1545
+[os][ition] -> [osition] 1546
+[ th][ose] -> [ those] 1547
+[ man][ufact] -> [ manufact] 1548
+[ ex][t] -> [ ext] 1549
+[ flow][s] -> [ flows] 1550
+[ imp][ro] -> [ impro] 1551
+[ d][eriv] -> [ deriv] 1552
+[p][s] -> [ps] 1553
+[n][el] -> [nel] 1554
+[ Equ][ity] -> [ Equity] 1555
+[ g][ain] -> [ gain] 1556
+[6][1] -> [61] 1557
+[4][6] -> [46] 1558
+[ d][irector] -> [ director] 1559
+[ car][ried] -> [ carried] 1560
+[i][e] -> [ie] 1561
+[ re][ad] -> [ read] 1562
+[ def][ence] -> [ defence] 1563
+[en][g] -> [eng] 1564
+[b][le] -> [ble] 1565
+[iz][ation] -> [ization] 1566
+[an][te] -> [ante] 1567
+[ app][oint] -> [ appoint] 1568
+[feren][ce] -> [ference] 1569
+[in][ion] -> [inion] 1570
+[u][id] -> [uid] 1571
+[ re][f] -> [ ref] 1572
+[fr][ast] -> [frast] 1573
+[-][b] -> [-b] 1574
+[ tech][nolo] -> [ technolo] 1575
+[ Re][g] -> [ Reg] 1576
+[ b][et] -> [ bet] 1577
+[at][a] -> [ata] 1578
+[uar][ante] -> [uarante] 1579
+[ p][ass] -> [ pass] 1580
+[t][t] -> [tt] 1581
+[ul][ated] -> [ulated] 1582
+[ mon][th] -> [ month] 1583
+[vi][ous] -> [vious] 1584
+[ mat][ters] -> [ matters] 1585
+[et][ails] -> [etails] 1586
+[ consid][ered] -> [ considered] 1587
+[ m][ore] -> [ more] 1588
+[ C][apital] -> [ Capital] 1589
+[at][ut] -> [atut] 1590
+[ contract][s] -> [ contracts] 1591
+[frast][ructure] -> [frastructure] 1592
+[ on][ly] -> [ only] 1593
+[qu][is] -> [quis] 1594
+[m][s] -> [ms] 1595
+[ f][e] -> [ fe] 1596
+[ provid][ed] -> [ provided] 1597
+[ appro][pri] -> [ appropri] 1598
+[ir][cul] -> [ircul] 1599
+[ activ][ities] -> [ activities] 1600
+[-][in] -> [-in] 1601
+[a][im] -> [aim] 1602
+[ transfer][red] -> [ transferred] 1603
+[c][rib] -> [crib] 1604
+[ist][ed] -> [isted] 1605
+[lud][ing] -> [luding] 1606
+[7][4] -> [74] 1607
+[ G][overnance] -> [ Governance] 1608
+[ s][ect] -> [ sect] 1609
+[in][k] -> [ink] 1610
+[ recogn][ition] -> [ recognition] 1611
+[A][N] -> [AN] 1612
+[ require][ments] -> [ requirements] 1613
+[ed][u] -> [edu] 1614
+[ cons][um] -> [ consum] 1615
+[ens][es] -> [enses] 1616
+[ right][s] -> [ rights] 1617
+[irect][ly] -> [irectly] 1618
+[ us][ed] -> [ used] 1619
+[en][ior] -> [enior] 1620
+[-][Executive] -> [-Executive] 1621
+[m][t] -> [mt] 1622
+[ L][td] -> [ Ltd] 1623
+[ R][ules] -> [ Rules] 1624
+[ sh][all] -> [ shall] 1625
+[ transact][ion] -> [ transaction] 1626
+[ whe][ther] -> [ whether] 1627
+[7][6] -> [76] 1628
+[ secur][ity] -> [ security] 1629
+[ le][ad] -> [ lead] 1630
+[m][e] -> [me] 1631
+[ b][ut] -> [ but] 1632
+[ re][du] -> [ redu] 1633
+[ort][s] -> [orts] 1634
+[our][ces] -> [ources] 1635
+[ivid][ual] -> [ividual] 1636
+[ con][d] -> [ cond] 1637
+[ pay][ment] -> [ payment] 1638
+[ g][iven] -> [ given] 1639
+[ I][f] -> [ If] 1640
+[N][et] -> [Net] 1641
+[in][es] -> [ines] 1642
+[ g][eneral] -> [ general] 1643
+[ assum][ptions] -> [ assumptions] 1644
+[irm][an] -> [irman] 1645
+[um][an] -> [uman] 1646
+[atut][ory] -> [atutory] 1647
+[ indust][ry] -> [ industry] 1648
+[il][ities] -> [ilities] 1649
+[ ch][ange] -> [ change] 1650
+[ contin][u] -> [ continu] 1651
+[ process][es] -> [ processes] 1652
+[ w][ater] -> [ water] 1653
+[ Sha][re] -> [ Share] 1654
+[ Man][ish] -> [ Manish] 1655
+[7][1] -> [71] 1656
+[ L][isting] -> [ Listing] 1657
+[ H][olding] -> [ Holding] 1658
+[ am][ort] -> [ amort] 1659
+[ s][c] -> [ sc] 1660
+[ purpos][e] -> [ purpose] 1661
+[ Def][ence] -> [ Defence] 1662
+[k][e] -> [ke] 1663
+['][ble] -> ['ble] 1664
+[ includ][es] -> [ includes] 1665
+[ est][abl] -> [ establ] 1666
+[ def][ined] -> [ defined] 1667
+[ re][venue] -> [ revenue] 1668
+[ incre][ase] -> [ increase] 1669
+[ M][ining] -> [ Mining] 1670
+[ dis][pos] -> [ dispos] 1671
+[ d][own] -> [ down] 1672
+[ subsidi][ary] -> [ subsidiary] 1673
+[8][0] -> [80] 1674
+[ issu][ed] -> [ issued] 1675
+[ot][es] -> [otes] 1676
+[ic][ip] -> [icip] 1677
+[O][ur] -> [Our] 1678
+[er][osp] -> [erosp] 1679
+[erosp][ace] -> [erospace] 1680
+[f][ul] -> [ful] 1681
+[ Ind][ian] -> [ Indian] 1682
+[iv][ers] -> [ivers] 1683
+[ qu][al] -> [ qual] 1684
+[ H][on] -> [ Hon] 1685
+[ g][r] -> [ gr] 1686
+[ compl][et] -> [ complet] 1687
+[he][et] -> [heet] 1688
+[In][c] -> [Inc] 1689
+[ respons][ible] -> [ responsible] 1690
+[7][0] -> [70] 1691
+[ ar][ising] -> [ arising] 1692
+[reci][ation] -> [reciation] 1693
+[ B][ank] -> [ Bank] 1694
+[ rec][over] -> [ recover] 1695
+[ op][inion] -> [ opinion] 1696
+[ oper][ating] -> [ operating] 1697
+[im][ate] -> [imate] 1698
+[ch][ie] -> [chie] 1699
+[5][4] -> [54] 1700
+[ ac][ross] -> [ across] 1701
+[erv][ice] -> [ervice] 1702
+[ pr][incip] -> [ princip] 1703
+[at][ory] -> [atory] 1704
+[ rec][omm] -> [ recomm] 1705
+[ s][che] -> [ sche] 1706
+[ot][h] -> [oth] 1707
+[i][x] -> [ix] 1708
+[ ass][urance] -> [ assurance] 1709
+[ Rem][uneration] -> [ Remuneration] 1710
+[and][ra] -> [andra] 1711
+[g][roup] -> [group] 1712
+[ F][und] -> [ Fund] 1713
+[6][8] -> [68] 1714
+[(][s] -> [(s] 1715
+[9][8] -> [98] 1716
+[ re][le] -> [ rele] 1717
+[ re][ason] -> [ reason] 1718
+[ a][chie] -> [ achie] 1719
+[ Res][p] -> [ Resp] 1720
+[ con][f] -> [ conf] 1721
+[ in][frastructure] -> [ infrastructure] 1722
+[ system][s] -> [ systems] 1723
+[ Con][t] -> [ Cont] 1724
+[id][e] -> [ide] 1725
+[iss][ion] -> [ission] 1726
+[ist][r] -> [istr] 1727
+[ y][ou] -> [ you] 1728
+[t][ed] -> [ted] 1729
+[ g][uarante] -> [ guarante] 1730
+[erson][nel] -> [ersonnel] 1731
+[ appropri][ate] -> [ appropriate] 1732
+[du][le] -> [dule] 1733
+[ N][ame] -> [ Name] 1734
+[ includ][e] -> [ include] 1735
+[l][ast] -> [last] 1736
+[ custom][ers] -> [ customers] 1737
+[ri][or] -> [rior] 1738
+[or][ies] -> [ories] 1739
+[anc][ed] -> [anced] 1740
+[ak][ing] -> [aking] 1741
+[ m][in] -> [ min] 1742
+[ e][mployee] -> [ employee] 1743
+[ra][p] -> [rap] 1744
+[ equ][ipment] -> [ equipment] 1745
+[ver][age] -> [verage] 1746
+[h][od] -> [hod] 1747
+[a][use] -> [ause] 1748
+[9][1] -> [91] 1749
+[ar][ial] -> [arial] 1750
+[ lo][an] -> [ loan] 1751
+[ D][ate] -> [ Date] 1752
+[ Y][es] -> [ Yes] 1753
+[S][t] -> [St] 1754
+[ c][rit] -> [ crit] 1755
+[ manufact][uring] -> [ manufacturing] 1756
+[ f][ocus] -> [ focus] 1757
+[ in][nov] -> [ innov] 1758
+[ T][o] -> [ To] 1759
+[ spec][ific] -> [ specific] 1760
+[ c][re] -> [ cre] 1761
+[ con][cer] -> [ concer] 1762
+[ pro][m] -> [ prom] 1763
+[4][1] -> [41] 1764
+[ val][u] -> [ valu] 1765
+[L][e] -> [Le] 1766
+[ re][t] -> [ ret] 1767
+[ri][ct] -> [rict] 1768
+[C][A] -> [CA] 1769
+[se][qu] -> [sequ] 1770
+[ h][olding] -> [ holding] 1771
+[ A][G] -> [ AG] 1772
+[C][urrent] -> [Current] 1773
+[ pre][p] -> [ prep] 1774
+[ ref][lect] -> [ reflect] 1775
+[ M][a] -> [ Ma] 1776
+[ rep][resent] -> [ represent] 1777
+[ in][ter] -> [ inter] 1778
+[ tra][ining] -> [ training] 1779
+[ar][s] -> [ars] 1780
+[is][ation] -> [isation] 1781
+[un][ction] -> [unction] 1782
+[ loss][es] -> [ losses] 1783
+[ vari][ous] -> [ various] 1784
+[ Off][ic] -> [ Offic] 1785
+[ce][ed] -> [ceed] 1786
+[ ac][quire] -> [ acquire] 1787
+[ exp][ense] -> [ expense] 1788
+[.][)\u000a\u000a] -> [.)\u000a\u000a] 1789
+[ dem][and] -> [ demand] 1790
+[u][g] -> [ug] 1791
+[ain][st] -> [ainst] 1792
+[w][n] -> [wn] 1793
+[ c][ro] -> [ cro] 1794
+[on][d] -> [ond] 1795
+[ic][ul] -> [icul] 1796
+[R][e] -> [Re] 1797
+[ hed][g] -> [ hedg] 1798
+[ proc][ed] -> [ proced] 1799
+[iv][al] -> [ival] 1800
+[olar][group] -> [olargroup] 1801
+[ estim][ates] -> [ estimates] 1802
+[ be][low] -> [ below] 1803
+[ Disc][los] -> [ Disclos] 1804
+[ii][i] -> [iii] 1805
+[ pay][ables] -> [ payables] 1806
+[T][rade] -> [Trade] 1807
+[Con][td] -> [Contd] 1808
+[.][.)\u000a\u000a] -> [..)\u000a\u000a] 1809
+[ the][y] -> [ they] 1810
+[ oblig][ation] -> [ obligation] 1811
+[S][E] -> [SE] 1812
+[ C][E] -> [ CE] 1813
+[ations][hip] -> [ationship] 1814
+[ d][el] -> [ del] 1815
+[ A][erospace] -> [ Aerospace] 1816
+[ li][ke] -> [ like] 1817
+[ t][w] -> [ tw] 1818
+[ rem][ain] -> [ remain] 1819
+[ g][overnance] -> [ governance] 1820
+[lect][r] -> [lectr] 1821
+[ Cro][re] -> [ Crore] 1822
+[ ag][ainst] -> [ against] 1823
+[ O][n] -> [ On] 1824
+[-][t] -> [-t] 1825
+[oc][u] -> [ocu] 1826
+[ set][t] -> [ sett] 1827
+[ imp][lement] -> [ implement] 1828
+[ bet][we] -> [ betwe] 1829
+[ betwe][en] -> [ between] 1830
+[ n][umber] -> [ number] 1831
+[6][7] -> [67] 1832
+[ af][ter] -> [ after] 1833
+[ j][oint] -> [ joint] 1834
+[ stand][alone] -> [ standalone] 1835
+[ borrow][ings] -> [ borrowings] 1836
+[v][ant] -> [vant] 1837
+[ Resp][ons] -> [ Respons] 1838
+[ p][ow] -> [ pow] 1839
+[ d][riv] -> [ driv] 1840
+[ environment][al] -> [ environmental] 1841
+[e][v] -> [ev] 1842
+[ d][ata] -> [ data] 1843
+[ acc][ess] -> [ access] 1844
+[st][ances] -> [stances] 1845
+[ a][ff] -> [ aff] 1846
+[f][lation] -> [flation] 1847
+[c][ies] -> [cies] 1848
+[ spec][ified] -> [ specified] 1849
+[ disclos][ures] -> [ disclosures] 1850
+[ Secret][ary] -> [ Secretary] 1851
+[s][olargroup] -> [solargroup] 1852
+[ Subsidi][ary] -> [ Subsidiary] 1853
+[crib][ed] -> [cribed] 1854
+[ w][ww] -> [ www] 1855
+[ ad][just] -> [ adjust] 1856
+[7][9] -> [79] 1857
+[ c][ap] -> [ cap] 1858
+[c][k] -> [ck] 1859
+[ in][tegr] -> [ integr] 1860
+[ c][ount] -> [ count] 1861
+[o][uld] -> [ould] 1862
+[i][ence] -> [ience] 1863
+[ T][ax] -> [ Tax] 1864
+[ The][se] -> [ These] 1865
+[il][y] -> [ily] 1866
+[ C][SR] -> [ CSR] 1867
+[ wh][o] -> [ who] 1868
+[ law][s] -> [ laws] 1869
+[ Con][duct] -> [ Conduct] 1870
+[n][ex] -> [nex] 1871
+[ part][y] -> [ party] 1872
+[ in][put] -> [ input] 1873
+[ a][uthor] -> [ author] 1874
+[ appro][val] -> [ approval] 1875
+[6][2] -> [62] 1876
+[ M][ember] -> [ Member] 1877
+[Invest][ment] -> [Investment] 1878
+[ Cha][irman] -> [ Chairman] 1879
+[ n][or] -> [ nor] 1880
+[ res][erve] -> [ reserve] 1881
+[ D][ist] -> [ Dist] 1882
+[ D][etails] -> [ Details] 1883
+[ rel][ating] -> [ relating] 1884
+[Y][es] -> [Yes] 1885
+[ rele][vant] -> [ relevant] 1886
+[ CE][O] -> [ CEO] 1887
+[F][inancial] -> [Financial] 1888
+[r][ial] -> [rial] 1889
+[ c][ol] -> [ col] 1890
+[ m][embers] -> [ members] 1891
+[ s][heet] -> [ sheet] 1892
+[ S][u] -> [ Su] 1893
+[it][ro] -> [itro] 1894
+[ prog][ram] -> [ program] 1895
+[ C][ons] -> [ Cons] 1896
+[ exp][enses] -> [ expenses] 1897
+[ res][olution] -> [ resolution] 1898
+[ateg][ory] -> [ategory] 1899
+[ C][o] -> [ Co] 1900
+[fr][ic] -> [fric] 1901
+[5][3] -> [53] 1902
+[it][ial] -> [itial] 1903
+[ AG][M] -> [ AGM] 1904
+[8][5] -> [85] 1905
+[)][.] -> [).] 1906
+[li][ed] -> [lied] 1907
+[ e][vent] -> [ event] 1908
+[ ab][out] -> [ about] 1909
+[ exp][losives] -> [ explosives] 1910
+[ invest][ment] -> [ investment] 1911
+[ deb][t] -> [ debt] 1912
+[ S][ystem] -> [ System] 1913
+[ U][n] -> [ Un] 1914
+[aj][or] -> [ajor] 1915
+[c][ent] -> [cent] 1916
+[ ens][uring] -> [ ensuring] 1917
+[ e][conomic] -> [ economic] 1918
+[ Comp][liance] -> [ Compliance] 1919
+[ sub][ject] -> [ subject] 1920
+[ be][ing] -> [ being] 1921
+[ g][roup] -> [ group] 1922
+[ met][hod] -> [ method] 1923
+[it][ig] -> [itig] 1924
+[c][l] -> [cl] 1925
+[ar][ation] -> [aration] 1926
+[ain][ts] -> [aints] 1927
+[ Offic][er] -> [ Officer] 1928
+[han][a] -> [hana] 1929
+[/][s] -> [/s] 1930
+[ A][fric] -> [ Afric] 1931
+[ver][t] -> [vert] 1932
+[ re][ference] -> [ reference] 1933
+[ N][CL] -> [ NCL] 1934
+[it][her] -> [ither] 1935
+[ Inc][ome] -> [ Income] 1936
+[SD][L] -> [SDL] 1937
+[ N][itro] -> [ Nitro] 1938
+[hold][er] -> [holder] 1939
+[cc][ess] -> [ccess] 1940
+[ren][g] -> [reng] 1941
+[os][s] -> [oss] 1942
+[ strateg][ic] -> [ strategic] 1943
+[pportun][ities] -> [pportunities] 1944
+[er][ial] -> [erial] 1945
+[ h][ad] -> [ had] 1946
+[ed][i] -> [edi] 1947
+[r][al] -> [ral] 1948
+[ V][al] -> [ Val] 1949
+[quis][ition] -> [quisition] 1950
+[ D][ep] -> [ Dep] 1951
+[end][ing] -> [ending] 1952
+[ borrow][ing] -> [ borrowing] 1953
+[ Ex][change] -> [ Exchange] 1954
+[In][terest] -> [Interest] 1955
+[ T][erm] -> [ Term] 1956
+[ v][i] -> [ vi] 1957
+[er][ly] -> [erly] 1958
+[vers][eas] -> [verseas] 1959
+[8][1] -> [81] 1960
+[6][9] -> [69] 1961
+[9][6] -> [96] 1962
+[ Ass][oci] -> [ Associ] 1963
+[ do][es] -> [ does] 1964
+[ record][s] -> [ records] 1965
+[u][ity] -> [uity] 1966
+[ hed][ge] -> [ hedge] 1967
+[um][ulated] -> [umulated] 1968
+[ pl][ans] -> [ plans] 1969
+[ be][li] -> [ beli] 1970
+[O][L] -> [OL] 1971
+[A][n] -> [An] 1972
+[af][e] -> [afe] 1973
+[-][d] -> [-d] 1974
+[ b][est] -> [ best] 1975
+[ S][afety] -> [ Safety] 1976
+[N][on] -> [Non] 1977
+[ he][alth] -> [ health] 1978
+[ benefit][s] -> [ benefits] 1979
+[iss][ions] -> [issions] 1980
+[ al][ong] -> [ along] 1981
+[E][P] -> [EP] 1982
+[r][ange] -> [range] 1983
+[O][R] -> [OR] 1984
+[is][tered] -> [istered] 1985
+[er][ia] -> [eria] 1986
+[ c][ase] -> [ case] 1987
+[ C][ash] -> [ Cash] 1988
+[ef][er] -> [efer] 1989
+[ equ][ival] -> [ equival] 1990
+[ disc][ount] -> [ discount] 1991
+[s][p] -> [sp] 1992
+[ State][ments] -> [ Statements] 1993
+[ p][res] -> [ pres] 1994
+[-][m] -> [-m] 1995
+[ tech][n] -> [ techn] 1996
+[n][ed] -> [ned] 1997
+[ on][e] -> [ one] 1998
+[ material][s] -> [ materials] 1999
+[ c][orporate] -> [ corporate] 2000
+[ work][ers] -> [ workers] 2001
+[p][en] -> [pen] 2002
+[ st][akeholders] -> [ stakeholders] 2003
+[ g][ener] -> [ gener] 2004
+[ s][o] -> [ so] 2005
+[it][or] -> [itor] 2006
+[ le][vel] -> [ level] 2007
+[ang][ible] -> [angible] 2008
+[ meas][ures] -> [ measures] 2009
+[ in][vol] -> [ invol] 2010
+[l][u] -> [lu] 2011
+[ Manag][ing] -> [ Managing] 2012
+[ month][s] -> [ months] 2013
+[ kn][own] -> [ known] 2014
+[ item][s] -> [ items] 2015
+[8][3] -> [83] 2016
+[ audit][ors] -> [ auditors] 2017
+[ Sha][res] -> [ Shares] 2018
+[ N][ote] -> [ Note] 2019
+[at][uity] -> [atuity] 2020
+[ Li][abilities] -> [ Liabilities] 2021
+[ Stand][ards] -> [ Standards] 2022
+[a][v] -> [av] 2023
+[ight][s] -> [ights] 2024
+[ ne][ed] -> [ need] 2025
+[ enh][ance] -> [ enhance] 2026
+[ f][urther] -> [ further] 2027
+[ A][g] -> [ Ag] 2028
+[ ad][o] -> [ ado] 2029
+[ c][or] -> [ cor] 2030
+[ ind][ividual] -> [ individual] 2031
+[ h][old] -> [ hold] 2032
+[ub][lic] -> [ublic] 2033
+[ n][ec] -> [ nec] 2034
+[ nec][ess] -> [ necess] 2035
+[ regul][ations] -> [ regulations] 2036
+[ proced][ures] -> [ procedures] 2037
+[%][)] -> [%)] 2038
+[ep][ar] -> [epar] 2039
+[sequ][ent] -> [sequent] 2040
+[ assess][ment] -> [ assessment] 2041
+[ ident][ified] -> [ identified] 2042
+[rad][ing] -> [rading] 2043
+[ Respons][ibility] -> [ Responsibility] 2044
+[n][ing] -> [ning] 2045
+[ al][low] -> [ allow] 2046
+[g][o] -> [go] 2047

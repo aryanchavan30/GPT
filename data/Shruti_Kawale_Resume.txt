@@ -1,0 +1,72 @@
+SHRUTI KAWALE
++91 9011286361⋄ Nagpur, Maharashtra
+kawaleshruti@outlook.com ⋄ linkedin.com
+
+OBJECTIVE
+
+Analytical professional with technical knowledge and critical thinking skills to thrive in data-driven environments.
+Tackles challenges with positivity and drive to overcome. Works great alone or with others and consistently exceeds
+expectations. I am eager to contribute to a dynamic team and make a positive impact.
+
+EDUCATION
+
+Bachelor of Technology , RTMNU Nagpur
+Computer Science and Engineering.
+
+SKILLS
+
+2020-2024
+
+Technical skills SQL, Python, GCP (Dataflow, Cloud Functions, BigQuery), ETL/ELT-Data pipeline , Looker.
+
+EXPERIENCE
+
+Trainee Data Engineer
+
+07/2024 - Current Low-latency Technologies Pvt. Ltd
+
+Pune, India
+
+• Designed and maintained scalable data pipelines for ingestion, transformation, and processing using Python,
+SQL, and cloud services. Built data models and cloud-based storage solutions, streamlining data flow with ETL
+tools like Dataflow, Dataproc, Cloud Composer, and Airflow.
+
+AI and Software Intern
+CureXMedia
+
+January 2024 - May 2024
+Nagpur, Maharashtra
+
+Developed an LLM-based chatbot and contributed to front-end development using HTML, CSS, and JavaScript.
+Managed a tech community to boost engagement and worked on the CityRent.Space project, including a What-
+sApp bot for customer interaction.
+
+PROJECTS
+
+Smart Logs Data Analytics. Designed a log data analysis solution with integrated dashboards using Power BI,
+Looker, and Google Data Studio. Built a robust pipeline with gsutil, Dataflow, and Cloud Functions on GCP,
+enhancing efficiency, security, and performance.
+
+Next gen AI Chatbot Developed a next-gen AI chatbot using JavaScript and Langchain, showcasing expertise in
+natural language processing and conversational agent design. Delivered a high-performance solution that significantly
+enhanced user interaction capabilities.
+
+Movie Multiplex System and Mini Shopping Store. Built responsive web applications—a Movie Multiplex
+System and a Mini Shopping Store—using HTML, CSS, and JavaScript. Designed user-friendly interfaces with
+real-time features, dynamic content, and seamless navigation to enhance user experience across devices.
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• Event Head at Departmental Committee. As Event Head of the CSE Departmental Committee, I coordinate
+academic and extracurricular activities, foster collaboration among students, faculty, and industry professionals,
+and ensure the success of departmental initiatives.
+
+• Community Management . As a community manager at CureXmedia, I foster engagement and communication
+within our diverse community, ensuring members feel heard, valued, and connected. I facilitate dialogue and
+address concerns to cultivate a vibrant, supportive online environment for all stakeholders.
+
+CERTIFICATION
+
+Cloud Digital Leader Certification (see here )
+
+
